@@ -7,6 +7,11 @@
 ## 快速使用
 
 **以管理员身份打开 PowerShell**，执行：
-
+根据网络环境选择
+GitHub
 ```powershell
 irm https://raw.githubusercontent.com/herta0426/SilverfoxCleanScript/refs/heads/main/SilverfoxCleanScript.ps1 | iex
+
+Gitee
+```powershell
+irm https://raw.giteeusercontent.com/mb-v/SilverfoxClean-script./raw/master/SilverfoxCleanScript.ps1 | iex
