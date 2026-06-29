@@ -9,4 +9,4 @@
 **以管理员身份打开 PowerShell**，执行：
 
 ```powershell
-irm https://你的托管地址/SilverfoxCleanScript.ps1 | iex
+irm https://raw.githubusercontent.com/herta0426/SilverfoxCleanScript/refs/heads/main/SilverfoxCleanScript.ps1 | iex
